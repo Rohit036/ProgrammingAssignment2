@@ -3,7 +3,7 @@
 #  The first function is used to store(set) or get the values of a matrix and
 #  it's inverse . The second function is used to either retreive the already 
 #  set(cached) value of the inverse or will store it if not set in the first place  
-
+ ## Author @ paresh nayyar
 ## Write a short comment describing this function
 #  This function 'makeCacheMatrix' returns a list of functions 
 #  that are defined to store(set) as well as retreive(get) the value of a 
